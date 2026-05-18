@@ -4,7 +4,7 @@
   <p align="center">
     <a href="https://pypi.org/project/webprobe-cli/"><img src="https://img.shields.io/pypi/v/webprobe-cli?color=blue&label=PyPI" alt="PyPI"></a>
     <a href="https://pypi.org/project/webprobe-cli/"><img src="https://img.shields.io/pypi/pyversions/webprobe-cli" alt="Python"></a>
-    <a href="https://github.com/shazeus/webprobe-cli/blob/main/LICENSE"><img src="https://img.shields.io/github/license/shazeus/webprobe-cli" alt="License"></a>
+    <a href="https://github.com/shazeus/webprobe-cli/blob/master/LICENSE"><img src="https://img.shields.io/github/license/shazeus/webprobe-cli" alt="License"></a>
     <a href="https://github.com/shazeus/webprobe-cli/stargazers"><img src="https://img.shields.io/github/stars/shazeus/webprobe-cli?style=flat" alt="Stars"></a>
   </p>
 </p>
